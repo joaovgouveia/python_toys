@@ -1,5 +1,5 @@
 # Python Toys
-> Uma coleção de scripts divertidos em python.
+> Fun python scripts to try
 
 ##
 [JotaV-0](https://github.com/JotaV-0)
