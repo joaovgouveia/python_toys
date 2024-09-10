@@ -16,7 +16,7 @@ def find_text(text, time):
 
 def main():
     text = "Hello World!"
-    find_text(text, 0.002)
+    find_text(text, 0.05)
 
 if __name__ == "__main__":
     main()
