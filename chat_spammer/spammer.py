@@ -15,8 +15,6 @@ def select_file(FILE_PATH):
     else:
         FILE_PATH += sys.argv[1]
 
-    FILE_PATH += ".txt"
-
     return FILE_PATH
 
 def wait(wait_time):
