@@ -13,8 +13,6 @@ To do this, run this command in the terminal:
 After that run the command:
 > python3 spammer.py <name_of_the_txt> [optional_arguments]
 
-Write the txt file name without the ".txt" extension.
-
 <br>
 
 ### Step #03
